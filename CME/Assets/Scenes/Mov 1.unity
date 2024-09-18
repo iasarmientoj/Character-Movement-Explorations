@@ -188,6 +188,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 7
+  groundDrag: 5
+  playerHeight: 2
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 1024
   orientation: {fileID: 957781821}
 --- !u!1 &509135757
 GameObject:
@@ -570,7 +575,7 @@ GameObject:
   - component: {fileID: 1064239043}
   - component: {fileID: 1064239042}
   - component: {fileID: 1064239041}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Suelo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
