@@ -27,6 +27,6 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 _Descripción:_ Pasos y herramientas utilizadas para generación semi-automática de modelos 3D. 
 1. Generar imagen en: <https://www.bing.com/images/create>
 2. Generar vistas y modelo 3D (GLB) en: <https://huggingface.co/spaces/TencentARC/InstantMesh>
-3. 
-	_Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
+3. Optimizar la superficie con la herramienta Decimate en Blender: <https://www.youtube.com/watch?v=GrD71-wXrIA>
+4. Generar la textura preliminar en Blender: <https://www.youtube.com/watch?v=2sgKu0bKUwU>
 
