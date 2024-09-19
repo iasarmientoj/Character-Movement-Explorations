@@ -18,7 +18,7 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 ### Escena - Mov 2
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
 
-_Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
+_Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
 
 ---
 
@@ -30,3 +30,5 @@ _Descripción:_ Pasos y herramientas utilizadas para generación semi-automátic
 3. Optimizar la superficie con la herramienta Decimate en Blender: <https://www.youtube.com/watch?v=GrD71-wXrIA>
 4. Generar la textura preliminar en Blender: <https://www.youtube.com/watch?v=2sgKu0bKUwU>
 
+### Rig y animación de personajes 3D humanoides
+- Usar [Mixamo](https://www.mixamo.com/#/)
