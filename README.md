@@ -25,9 +25,8 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 ## Otros conocimientos aplicados
 ### Creación de personajes 3D
 _Descripción:_ Pasos y herramientas utilizadas para generación semi-automática de modelos 3D. 
-1. Generar imagen en: [](https://www.bing.com/images/create) 
-2. Generar vistas y modelo 3D (GLB) en: [](https://huggingface.co/spaces/TencentARC/InstantMesh)
+1. Generar imagen en: <https://www.bing.com/images/create>
+2. Generar vistas y modelo 3D (GLB) en: <https://huggingface.co/spaces/TencentARC/InstantMesh>
 3. 
-
-_Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
+	_Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
