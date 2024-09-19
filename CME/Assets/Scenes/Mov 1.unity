@@ -193,6 +193,10 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 1024
+  jumpForce: 12
+  jumpCooldown: 0.25
+  airMultiplier: 0.4
+  jumpKey: 32
   orientation: {fileID: 957781821}
 --- !u!1 &509135757
 GameObject:
