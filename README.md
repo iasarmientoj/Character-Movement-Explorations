@@ -1,7 +1,6 @@
 # Character-Movement-Explorations
 Este repositorio contiene una serie de exploraciones y pruebas relacionadas con diversas formas de mover un personaje en Unity. Se incluyen implementaciones de diferentes mecánicas de movimiento para personajes en entornos 2D y 3D.
 
-
 ---
 
 ## Anotaciones escenas
@@ -21,10 +20,16 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 ### Escena - Mov 2
 ![Escena - Mov 2](/CME/Assets/Scenes/miniaturas/Mov%202.png "Escena - Mov 2")
 
-_Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
+_Descripción:_ Movimiento básico en tercera persona para PC con teclas WASD y animaciones. 
+- Movimiento de desplazamiento con velocity en el rb.
+- Rotación del personaje rotando su transform.
+- Animaciones de idle, walk, run, walkback.
+- Solucionado, los giros estando en idle.
+- Solucionado, bug al dejar de presionar W antes que Shift al correr.
+- Por mejorar, complejidad del Animator.
+- Por mejorar, la cmbinación de teclas en el movimiento causa varios bugs.
 
 _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
-
 
 ---
 
