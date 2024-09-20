@@ -27,7 +27,7 @@ _Descripción:_ Movimiento básico en tercera persona para PC con teclas WASD y 
 - Solucionado, los giros estando en idle.
 - Solucionado, bug al dejar de presionar W antes que Shift al correr.
 - Por mejorar, complejidad del Animator.
-- Por mejorar, la cmbinación de teclas en el movimiento causa varios bugs.
+- Por mejorar, la combinación de teclas en el movimiento causa varios bugs.
 
 _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
 
