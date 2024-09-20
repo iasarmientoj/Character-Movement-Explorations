@@ -1,6 +1,7 @@
 # Character-Movement-Explorations
 Este repositorio contiene una serie de exploraciones y pruebas relacionadas con diversas formas de mover un personaje en Unity. Se incluyen implementaciones de diferentes mecánicas de movimiento para personajes en entornos 2D y 3D.
 
+
 ---
 
 ## Anotaciones escenas
@@ -23,6 +24,7 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
 
 _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
+
 
 ---
 
