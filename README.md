@@ -35,7 +35,11 @@ _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C#
 ![Escena - Mov 3](/CME/Assets/Scenes/miniaturas/Mov%203.png "Escena - Mov 3")
 
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones. 
-- Movimiento de desplazamiento con velocity en el rb.
+- Movimiento de desplazamiento con Move en el CharacterController.
+- Se mueve en relación hacia donde esté mirando la cámara principal.
+- Se aplica gravedad en el código.
+- El personaje gira en el sentido del movimiento con rotation, suavizado.
+- Animator con Layers.
 
 _Tutorial seguido:_ [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
 
@@ -50,4 +54,7 @@ _Descripción:_ Pasos y herramientas utilizadas para generación semi-automátic
 4. Generar la textura preliminar en Blender: <https://www.youtube.com/watch?v=2sgKu0bKUwU>
 
 ### Rig y animación de personajes 3D humanoides
-- Usar [Mixamo](https://www.mixamo.com/#/)
+- Usar [Mixamo](https://www.mixamo.com/)
+
+### Animator con Blend Trees
+_Tutorial seguido:_ [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
