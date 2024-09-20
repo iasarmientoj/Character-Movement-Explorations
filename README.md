@@ -20,7 +20,7 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 ### Escena - Mov 2
 ![Escena - Mov 2](/CME/Assets/Scenes/miniaturas/Mov%202.png "Escena - Mov 2")
 
-_Descripción:_ Movimiento básico en tercera persona (usando rb) para PC con teclas WASD y animaciones. 
+_Descripción:_ Movimiento básico en tercera persona *(usando rb)* para PC con teclas WASD y animaciones. 
 - Movimiento de desplazamiento con velocity en el rb.
 - Rotación del personaje rotando su transform.
 - Animaciones de idle, walk, run, walkback.
@@ -34,7 +34,7 @@ _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C#
 ### Escena - Mov 3
 ![Escena - Mov 3](/CME/Assets/Scenes/miniaturas/Mov%203.png "Escena - Mov 3")
 
-_Descripción:_ Movimiento básico en tercera persona (usando CharacterController) para PC con teclas WASD y animaciones. 
+_Descripción:_ Movimiento básico en tercera persona *(usando CharacterController)* para PC con teclas WASD y animaciones. 
 - Movimiento de desplazamiento con velocity en el rb.
 
 _Tutorial seguido:_ [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
