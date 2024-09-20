@@ -6,6 +6,7 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 ## Anotaciones escenas
 ### Escena - Mov 1
 ![Escena - Mov 1](/CME/Assets/Scenes/miniaturas/Mov%201.png "Escena - Mov 1")
+
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
 - Orientación de cámara controlada con el mouse.
 - Movimiento sobre el plano X,Z añadiendo fuerza al rb del personanje.
@@ -18,6 +19,7 @@ _Tutorial seguido:_ [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https
 
 ### Escena - Mov 2
 ![Escena - Mov 2](/CME/Assets/Scenes/miniaturas/Mov%202.png "Escena - Mov 2")
+
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
 
 _Tutorial seguido:_ [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
