@@ -51,27 +51,10 @@ _Tutoriales guía:_
 
 ## Otros conocimientos aplicados
 ### Creación de personajes 3D
-_Descripción:_ Guía para la creación y animación de personajes 3D con IA. 
+_Descripción:_ Guía para la creación y animación de personajes humanoides 3D con IA. 
 
-1. Crear el prompt en inglés, ej: detective, brazos extendidos, t pose, estilo 3d, caricatura
-	<https://translate.google.com/?hl=es&sl=es&tl=en>
-2. Generar la imagen del personaje
-	<https://www.bing.com/images/create/>
-3. Generar el modelo 3D
-	<https://huggingface.co/spaces/stabilityai/stable-fast-3d>
-	<https://hyperhuman.deemos.com/>
-4. Convertir el modelo 3D de glb a fbx
-	<https://imagetostl.com/convert/file/glb/to/fbx#convert>
-5. Animar el personaje
-	<https://www.mixamo.com/#/>
-
-
-1. Generar imagen en: <https://www.bing.com/images/create>
-2. Generar vistas y modelo 3D (GLB) en: <https://huggingface.co/spaces/TencentARC/InstantMesh>
-3. Optimizar la superficie con la herramienta Decimate en Blender: <https://www.youtube.com/watch?v=GrD71-wXrIA>
-4. Generar la textura preliminar en Blender: <https://www.youtube.com/watch?v=2sgKu0bKUwU>
-
-### Rig y animación de personajes 3D humanoides
-- Usar [Mixamo](https://www.mixamo.com/)
-
-### Animator con Blend Trees
+1. Crear el prompt en inglés en el [Traductor de google](https://translate.google.com/?hl=es&sl=es&tl=en), ej: detective, brazos extendidos, t pose, estilo 3d, caricatura	
+2. Generar la imagen del personaje con [Bing AI](https://www.bing.com/images/create/)
+3. Generar el modelo 3D en [Stable Fast 3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d) o en [Hyperhuman](https://hyperhuman.deemos.com/)
+4. Convertir el modelo 3D de glb a fbx en este [Convertidor GLB a FBX](https://imagetostl.com/convert/file/glb/to/fbx#convert)
+5. Animar el personaje en [Mixamo](https://www.mixamo.com/#/)
