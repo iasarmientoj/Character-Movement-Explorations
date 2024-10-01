@@ -58,3 +58,8 @@ _Descripción:_ Guía para la creación y animación de personajes humanoides 3D
 3. Generar el modelo 3D en [Stable Fast 3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d) o en [Hyperhuman](https://hyperhuman.deemos.com/)
 4. Convertir el modelo 3D de glb a fbx en este [Convertidor GLB a FBX](https://imagetostl.com/convert/file/glb/to/fbx#convert)
 5. Animar el personaje en [Mixamo](https://www.mixamo.com/#/)
+
+### Rescatar textura en Blender
+_Descripción:_ Guía para texturizado en Blender. 
+1. Optimizar la superficie con la herramienta Decimate en Blender: [Blender 3.3 - Decimate Mesh To Lower Poly Count](https://www.youtube.com/watch?v=GrD71-wXrIA)
+2. Generar la textura preliminar en Blender: [Blender materials export to GLB/GLTF](https://www.youtube.com/watch?v=2sgKu0bKUwU)
