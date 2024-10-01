@@ -45,6 +45,7 @@ _Descripción:_ Movimiento básico en tercera persona **(usando CharacterControl
 
 _Tutoriales guía:_ 
 - [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
+- [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w&list=PLiagFqvgGpygMquHIEZDjDMU0fo-WqyX4&index=2)
 - [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
 
 ---
@@ -56,7 +57,7 @@ _Descripción:_ Guía para la creación y animación de personajes humanoides 3D
 1. Crear el prompt en inglés en el [Traductor de google](https://translate.google.com/?hl=es&sl=es&tl=en), ej: detective, brazos extendidos, t pose, estilo 3d, caricatura	
 2. Generar la imagen del personaje con [Bing AI](https://www.bing.com/images/create/)
 3. Generar el modelo 3D en [Instant Mesh](https://huggingface.co/spaces/TencentARC/InstantMesh) o en [Stable Fast 3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d) o en [Hyperhuman](https://hyperhuman.deemos.com/)
-4. Convertir el modelo 3D de glb a fbx en este [Convertidor GLB a FBX](https://imagetostl.com/convert/file/glb/to/fbx#convert)
+4. Convertir el modelo 3D de glb a fbx en Blender o en este [Convertidor GLB a FBX](https://imagetostl.com/convert/file/glb/to/fbx#convert)
 5. Animar el personaje en [Mixamo](https://www.mixamo.com/#/)
 
 ### Rescatar textura en Blender

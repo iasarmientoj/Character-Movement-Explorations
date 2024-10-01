@@ -17,7 +17,6 @@ public class PlayerMovement_Mov3 : MonoBehaviour
     void Start()
     {
         characterController = GetComponent<CharacterController>();
-        animator = GetComponent<Animator>();
         
     }
 
@@ -27,6 +26,8 @@ public class PlayerMovement_Mov3 : MonoBehaviour
         float hor = Input.GetAxis("Horizontal");
         float ver = Input.GetAxis("Vertical");
         Vector3 movement = Vector3.zero;
+
+        float movementSpeed = 0;
 
         if(hor != 0 || ver != 0)
         {
@@ -40,19 +41,21 @@ public class PlayerMovement_Mov3 : MonoBehaviour
 
 
             Vector3 direction = forward * ver + right * hor;
+            movementSpeed = Mathf.Clamp01(direction.magnitude);
             direction.Normalize();
 
-            movement = direction* speed * Time.deltaTime;
+            movement = direction * speed * movementSpeed * Time.deltaTime;
 
             //para que el personaje gire en el sentido del movimiento
             transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(direction), 0.2f);
-
 
         }
 
         movement.y += gravity * Time.deltaTime;
 
         characterController.Move(movement);
+
+        animator.SetFloat("Speed", movementSpeed);
 
     }
 }
