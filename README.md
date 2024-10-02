@@ -5,23 +5,22 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 
 ## Anotaciones escenas
 ### Escena - Mov 1
-![Escena - Mov 1](/CME/Assets/Scenes/miniaturas/Mov%201.png "Escena - Mov 1")
-
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
+![Escena - Mov 1](/CME/Assets/Scenes/miniaturas/Mov%201.png "Escena - Mov 1")
+_Detalles:_
 - Orientación de cámara controlada con el mouse.
 - Movimiento sobre el plano X,Z añadiendo fuerza al rb del personanje.
 - Drag en la detección de suelo con raycast.
 - Velocidad máxima limitada a un valor fijo.
 - Salto con fuerza impulso vertical en el rb.
 - Comportamiento del movimiento ligeramente diferente en el salto.
-
 _Tutoriales guía:_ 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
 ### Escena - Mov 2
-![Escena - Mov 2](/CME/Assets/Scenes/miniaturas/Mov%202.png "Escena - Mov 2")
-
 _Descripción:_ Movimiento básico en tercera persona **(usando rb)** para PC con teclas WASD y animaciones. 
+![Escena - Mov 2](/CME/Assets/Scenes/miniaturas/Mov%202.png "Escena - Mov 2")
+_Detalles:_
 - Movimiento de desplazamiento con velocity en el rb.
 - Rotación del personaje rotando su transform.
 - Animaciones de idle, walk, run, walkback.
@@ -29,20 +28,18 @@ _Descripción:_ Movimiento básico en tercera persona **(usando rb)** para PC co
 - Solucionado, bug al dejar de presionar W antes que Shift al correr.
 - Por mejorar, complejidad del Animator.
 - Por mejorar, la combinación de teclas en el movimiento causa varios bugs.
-
 _Tutoriales guía:_ 
 - [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
 
 ### Escena - Mov 3
-![Escena - Mov 3](/CME/Assets/Scenes/miniaturas/Mov%203.png "Escena - Mov 3")
-
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones. 
+![Escena - Mov 3](/CME/Assets/Scenes/miniaturas/Mov%203.png "Escena - Mov 3")
+_Detalles:_
 - Movimiento de desplazamiento con Move en el CharacterController.
 - Se mueve en relación hacia donde esté mirando la cámara principal.
 - Se aplica gravedad en el código.
 - El personaje gira en el sentido del movimiento con rotation, suavizado.
 - Animator con Blend Trees.
-
 _Tutoriales guía:_ 
 - [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
 - [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w&list=PLiagFqvgGpygMquHIEZDjDMU0fo-WqyX4&index=2)
@@ -50,14 +47,13 @@ _Tutoriales guía:_
 
 
 ### Escena - Mov 4
-![Escena - Mov 4](/CME/Assets/Scenes/miniaturas/Mov%204.png "Escena - Mov 4")
-
 _Descripción:_ Sistema de movimiento en primera persona **(usando CharacterController)** para PC con teclas WASD.
+![Escena - Mov 4](/CME/Assets/Scenes/miniaturas/Mov%204.png "Escena - Mov 4")
+_Detalles:_
 - Script tomado del tutorial.
 - Función de caminar, correr, saltar, agacharse, gravedad. 
 - Movimiento de desplazamiento con Move en el CharacterController.
 - El personaje gira en el sentido del movimiento con rotation.
-
 _Tutoriales guía:_ 
 - [UNITY 3D PLAYER MOVEMENT in 2 MINUTES! FPS Shooter](https://www.youtube.com/watch?v=1uW-GbHrtQc)
 
