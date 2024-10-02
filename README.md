@@ -48,6 +48,19 @@ _Tutoriales guía:_
 - [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w&list=PLiagFqvgGpygMquHIEZDjDMU0fo-WqyX4&index=2)
 - [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
 
+
+### Escena - Mov 4
+![Escena - Mov 4](/CME/Assets/Scenes/miniaturas/Mov%204.png "Escena - Mov 4")
+
+_Descripción:_ Sistema de movimiento en primera persona **(usando CharacterController)** para PC con teclas WASD.
+- Script tomado del tutorial.
+- Función de caminar, correr, saltar, agacharse, gravedad. 
+- Movimiento de desplazamiento con Move en el CharacterController.
+- El personaje gira en el sentido del movimiento con rotation.
+
+_Tutoriales guía:_ 
+- [UNITY 3D PLAYER MOVEMENT in 2 MINUTES! FPS Shooter](https://www.youtube.com/watch?v=1uW-GbHrtQc)
+
 ---
 
 ## Otros conocimientos aplicados
