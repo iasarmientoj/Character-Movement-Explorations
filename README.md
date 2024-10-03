@@ -20,6 +20,7 @@ _Detalles:_
 _Tutoriales guía:_ 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
+
 ### Escena - Mov 2
 _Descripción:_ Movimiento básico en tercera persona **(usando rb)** para PC con teclas WASD y animaciones. 
 
@@ -36,6 +37,7 @@ _Detalles:_
 
 _Tutoriales guía:_ 
 - [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
+
 
 ### Escena - Mov 3
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones. 
@@ -68,6 +70,23 @@ _Detalles:_
 
 _Tutoriales guía:_ 
 - [UNITY 3D PLAYER MOVEMENT in 2 MINUTES! FPS Shooter](https://www.youtube.com/watch?v=1uW-GbHrtQc)
+
+
+### Escena - Mov 5
+_Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando RigidBody) para PC con teclas WASD.
+
+![Escena - Mov 5](/CME/Assets/Scenes/miniaturas/Mov%205.png "Escena - Mov 5")
+
+_Detalles:_
+- Script tomado del tutorial.
+- Con RigidBody
+- Función de caminar, correr, saltar, agacharse. 
+- El personaje gira en el sentido del movimiento con rotation.
+- La cámara no atraviesa paredes.
+- Varios tipos de cámara: exploración, combate, topdown.
+
+_Tutoriales guía:_ 
+- [THIRD PERSON MOVEMENT in 11 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=UCwwn2q4Vys)
 
 ---
 
