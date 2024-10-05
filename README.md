@@ -132,7 +132,7 @@ _Detalles:_
 - Separación de lógica de movimiento en diferentes scripts para facilitar la reutilización y mantenimiento.
 
 _Tutoriales guía:_ 
-- []()
+- [First Person Controller - Basic Movement and Mouse Input (EP01) [Unity Tutorial]](https://www.youtube.com/watch?v=2FTDa14nryI&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21)
 
 _Resultado final:_ 
 - [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
