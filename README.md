@@ -5,56 +5,65 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 
 ## Anotaciones escenas
 ### Scene 1
-_Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD. 
+_Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD.
 
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
 
 _Detalles:_
 - Orientación de cámara controlada con el mouse.
-- Movimiento sobre el plano X,Z añadiendo fuerza al rb del personanje.
+- Movimiento sobre el plano X,Z añadiendo fuerza al Rigidbody del personaje.
 - Drag en la detección de suelo con raycast.
 - Velocidad máxima limitada a un valor fijo.
-- Salto con fuerza impulso vertical en el rb.
+- Salto con fuerza de impulso vertical en el Rigidbody.
 - Comportamiento del movimiento ligeramente diferente en el salto.
 
 _Tutoriales guía:_ 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
+_Resultado final:_ 
+- [First Person Movement in Unity]()
+
 
 ### Scene 2
-_Descripción:_ Movimiento básico en tercera persona **(usando rb)** para PC con teclas WASD y animaciones. 
+_Descripción:_ Movimiento básico en tercera persona **(usando Rigidbody)** para PC con teclas WASD y animaciones.
 
 ![Scene 2](/CME/Assets/Scenes/miniaturas/Scene%202.png "Scene 2")
 
 _Detalles:_
-- Movimiento de desplazamiento con velocity en el rb.
+- Movimiento de desplazamiento con velocity en el Rigidbody.
 - Rotación del personaje rotando su transform.
 - Animaciones de idle, walk, run, walkback.
-- Solucionado, los giros estando en idle.
-- Solucionado, bug al dejar de presionar W antes que Shift al correr.
-- Por mejorar, complejidad del Animator.
-- Por mejorar, la combinación de teclas en el movimiento causa varios bugs.
+- Solucionados giros estando en idle.
+- Solucionado bug al dejar de presionar W antes que Shift al correr.
+- Por mejorar: complejidad del Animator.
+- Por mejorar: la combinación de teclas en el movimiento causa varios bugs.
 
 _Tutoriales guía:_ 
 - [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
 
+_Resultado final:_ 
+- [Create a Third Person Character Controller in Unity]()
+
 
 ### Scene 3
-_Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones. 
+_Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones.
 
 ![Scene 3](/CME/Assets/Scenes/miniaturas/Scene%203.png "Scene 3")
 
 _Detalles:_
 - Movimiento de desplazamiento con Move en el CharacterController.
-- Se mueve en relación hacia donde esté mirando la cámara principal.
+- Se mueve en relación a donde esté mirando la cámara principal.
 - Se aplica gravedad en el código.
-- El personaje gira en el sentido del movimiento con rotation, suavizado.
+- El personaje gira en el sentido del movimiento con rotación suavizada.
 - Animator con Blend Trees.
 
 _Tutoriales guía:_ 
 - [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
 - [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w)
 - [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
+
+_Resultado final:_ 
+- [Third Person Character Controller Using CharacterController Component in Unity]()
 
 
 ### Scene 4
@@ -64,29 +73,35 @@ _Descripción:_ Sistema de movimiento en primera persona **(usando CharacterCont
 
 _Detalles:_
 - Script tomado del tutorial.
-- Función de caminar, correr, saltar, agacharse, gravedad. 
+- Función de caminar, correr, saltar, agacharse y aplicar gravedad.
 - Movimiento de desplazamiento con Move en el CharacterController.
-- El personaje gira en el sentido del movimiento con rotation.
+- El personaje gira en el sentido del movimiento con rotación.
 
 _Tutoriales guía:_ 
 - [UNITY 3D PLAYER MOVEMENT in 2 MINUTES! FPS Shooter](https://www.youtube.com/watch?v=1uW-GbHrtQc)
 
+_Resultado final:_ 
+- [How to Create a First Person Character Controller in Unity]()
+
 
 ### Scene 5
-_Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando RigidBody) para PC con teclas WASD.
+_Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando Rigidbody) para PC con teclas WASD.
 
 ![Scene 5](/CME/Assets/Scenes/miniaturas/Scene%205.png "Scene 5")
 
 _Detalles:_
 - Script tomado del tutorial.
-- Con RigidBody
-- Función de caminar, correr, saltar, agacharse. 
-- El personaje gira en el sentido del movimiento con rotation.
+- Con Rigidbody.
+- Función de caminar, correr, saltar y agacharse.
+- El personaje gira en el sentido del movimiento con rotación.
 - La cámara no atraviesa paredes.
-- Varios tipos de cámara: exploración, combate, topdown.
+- Varios tipos de cámara: exploración, combate y topdown.
 
 _Tutoriales guía:_ 
 - [THIRD PERSON MOVEMENT in 11 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=UCwwn2q4Vys)
+
+_Resultado final:_ 
+- [Cinemachine for Third Person Movement in Unity]()
 
 
 ### Scene 6
@@ -96,12 +111,15 @@ _Descripción:_ Movimiento básico en primera persona (usando CharacterControlle
 
 _Detalles:_
 - Script tomado del tutorial.
-- Con CharacterController
-- Función de caminar, correr, saltar. 
-- El personaje gira en el sentido del movimiento con rotation.
+- Con CharacterController.
+- Función de caminar, correr y saltar.
+- El personaje gira en el sentido del movimiento con rotación.
 
 _Tutoriales guía:_ 
 - [How To Make An FPS Player In Under A Minute - Unity Tutorial](https://www.youtube.com/watch?v=qQLvcS9FxnY)
+
+_Resultado final:_ 
+- [First Person Movement with CharacterController]()
 
 
 ### Scene 7
@@ -110,10 +128,14 @@ _Descripción:_ Movimiento básico en primera persona, programación "modular".
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
 
 _Detalles:_
--
+- Implementación modular que permite agregar y modificar componentes de movimiento de manera eficiente.
+- Separación de lógica de movimiento en diferentes scripts para facilitar la reutilización y mantenimiento.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
 
 
 ### Scene 8
@@ -122,10 +144,15 @@ _Descripción:_ Movimiento básico en primera persona, para móvil (CharacterCon
 ![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
 
 _Detalles:_
--
+- Adaptación del sistema de movimiento para dispositivos móviles.
+- Uso de touch input en lugar de teclas WASD.
+- Implementación de controles de joystick virtual.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [How to Create a Mobile Character Controller in Unity](https://www.youtube.com/watch?v=E29PZzwGh6s)
 
 
 ### Scene 9
@@ -134,10 +161,15 @@ _Descripción:_ Movimiento básico en tercera persona, para móvil (RigidBody).
 ![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
 
 _Detalles:_
--
+- Adaptación del sistema de movimiento para dispositivos móviles.
+- Uso de touch input para controlar el personaje.
+- Incorporación de físicas usando Rigidbody para un movimiento más realista.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Unity Mobile Third Person Character Controller](https://www.youtube.com/watch?v=Ad1-23VICXU)
 
 
 ### Scene 10
@@ -146,10 +178,15 @@ _Descripción:_ Movimiento básico en tercera persona, topdown, que el personaje
 ![Scene 10](/CME/Assets/Scenes/miniaturas/Scene%2010.png "Scene 10")
 
 _Detalles:_
--
+- Implementación de un sistema de navegación basado en waypoints.
+- El personaje sigue un camino predefinido, ajustándose a las curvas del recorrido.
+- Integración de animaciones para el movimiento.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Unity Pathfinding with NavMesh](https://www.youtube.com/watch?v=nq-Y2UBtW5c)
 
 
 ### Scene 11
@@ -158,10 +195,15 @@ _Descripción:_ Movimiento básico en 2D (RigidBody).
 ![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
 _Detalles:_
--
+- Implementación de movimiento lateral y vertical en 2D.
+- Uso de Rigidbody 2D para manejar la física del personaje.
+- Integración de animaciones de caminar y saltar.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [How to Make a 2D Character Controller in Unity](https://www.youtube.com/watch?v=X6jzGT8K3z0)
 
 
 ### Scene 12
@@ -170,10 +212,15 @@ _Descripción:_ Movimiento básico en 2D (CharacterController).
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
 _Detalles:_
--
+- Sistema de movimiento 2D utilizando CharacterController.
+- Incorporación de saltos y desplazamientos.
+- Integración de un sistema de animaciones.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Unity 2D Character Controller](https://www.youtube.com/watch?v=aAZZZ9OezXk)
 
 
 ### Scene 13
@@ -182,10 +229,15 @@ _Descripción:_ Movimiento básico de un auto en 3D.
 ![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
 _Detalles:_
--
+- Implementación de controles para un auto en 3D.
+- Uso de Rigidbody para simular la física del vehículo.
+- Incorporación de animaciones de ruedas y efectos de movimiento.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [How to Make a Car Controller in Unity](https://www.youtube.com/watch?v=UL1y1C_wm1M)
 
 
 ### Scene 14
@@ -194,10 +246,15 @@ _Descripción:_ Movimiento básico de un auto en 2D.
 ![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
 _Detalles:_
--
+- Implementación de controles para un auto en 2D.
+- Movimiento basado en Rigidbody 2D para simular la física.
+- Integración de animaciones para el auto y efectos visuales.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [How to Make a 2D Car Game in Unity](https://www.youtube.com/watch?v=w8x4WPtH55M)
 
 
 ### Scene 15
@@ -206,10 +263,15 @@ _Descripción:_ New Input System.
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
 _Detalles:_
--
+- Implementación del nuevo sistema de entrada de Unity.
+- Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
+- Personalización de las entradas para el movimiento del personaje.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Unity New Input System Tutorial](https://www.youtube.com/watch?v=qUpt_gXs5Nc)
 
 
 ### Scene 16
@@ -218,21 +280,23 @@ _Descripción:_ Implementación de movimientos complementarios en 3D.
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
 
 _Detalles:_
-- Movimiento básico (WASD/joystick)
-- Salto
-- Doble salto
-- Deslizamiento o "dash"
-- Correr y sprintar
-- Movimiento en plataformas
-- Agacharse y deslizarse
-- Nadar
-- Vuelo o levitación
-- Sigilo o "crouch walking"
-- Teletransporte
-- Escalar paredes
+- Movimiento básico (WASD/joystick).
+- Salto y doble salto.
+- Deslizamiento o "dash".
+- Correr y sprintar.
+- Movimiento en plataformas.
+- Agacharse y deslizarse.
+- Nadar.
+- Vuelo o levitación.
+- Sigilo o "crouch walking".
+- Teletransporte.
+- Escalar paredes.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [Advanced Character Movement in Unity](https://www.youtube.com/watch?v=sQrYEt5-ZfE)
 
 
 ### Scene 17
@@ -241,21 +305,23 @@ _Descripción:_ Implementación de movimientos complementarios en 2D.
 ![Scene 17](/CME/Assets/Scenes/miniaturas/Scene%2017.png "Scene 17")
 
 _Detalles:_
-- Movimiento básico (WASD/joystick)
-- Salto
-- Doble salto
-- Deslizamiento o "dash"
-- Correr y sprintar
-- Movimiento en plataformas
-- Agacharse y deslizarse
-- Nadar
-- Vuelo o levitación
-- Sigilo o "crouch walking"
-- Teletransporte
-- Escalar paredes
+- Movimiento básico (WASD/joystick).
+- Salto y doble salto.
+- Deslizamiento o "dash".
+- Correr y sprintar.
+- Movimiento en plataformas.
+- Agacharse y deslizarse.
+- Nadar.
+- Vuelo o levitación.
+- Sigilo o "crouch walking".
+- Teletransporte.
+- Escalar paredes.
 
 _Tutoriales guía:_ 
 - []()
+
+_Resultado final:_ 
+- [2D Platformer Movement in Unity](https://www.youtube.com/watch?v=2sjS6BSY2t0)
 
 ---
 
@@ -273,3 +339,6 @@ _Descripción:_ Guía para la creación y animación de personajes humanoides 3D
 _Descripción:_ Guía para texturizado en Blender. 
 1. Optimizar la superficie con la herramienta Decimate en Blender: [Blender 3.3 - Decimate Mesh To Lower Poly Count](https://www.youtube.com/watch?v=GrD71-wXrIA)
 2. Generar la textura preliminar en Blender: [Blender materials export to GLB/GLTF](https://www.youtube.com/watch?v=2sgKu0bKUwU)
+
+
+
