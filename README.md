@@ -53,7 +53,7 @@ _Detalles:_
 
 _Tutoriales guía:_ 
 - [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
-- [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w&list=PLiagFqvgGpygMquHIEZDjDMU0fo-WqyX4&index=2)
+- [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w)
 - [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
 
 
@@ -87,6 +87,175 @@ _Detalles:_
 
 _Tutoriales guía:_ 
 - [THIRD PERSON MOVEMENT in 11 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=UCwwn2q4Vys)
+
+
+### Escena - Mov 6
+_Descripción:_ Movimiento básico en primera persona (usando CharacterController) para PC con teclas WASD.
+
+![Escena - Mov 6](/CME/Assets/Scenes/miniaturas/Mov%206.png "Escena - Mov 6")
+
+_Detalles:_
+- Script tomado del tutorial.
+- Con CharacterController
+- Función de caminar, correr, saltar. 
+- El personaje gira en el sentido del movimiento con rotation.
+
+_Tutoriales guía:_ 
+- [How To Make An FPS Player In Under A Minute - Unity Tutorial](https://www.youtube.com/watch?v=qQLvcS9FxnY)
+
+
+### Escena - Mov 7
+_Descripción:_ Movimiento básico en primera persona, programación "modular".
+
+![Escena - Mov 7](/CME/Assets/Scenes/miniaturas/Mov%207.png "Escena - Mov 7")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 8
+_Descripción:_ Movimiento básico en primera persona, para móvil (CharacterController).
+
+![Escena - Mov 8](/CME/Assets/Scenes/miniaturas/Mov%208.png "Escena - Mov 8")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 9
+_Descripción:_ Movimiento básico en tercera persona, para móvil (RigidBody).
+
+![Escena - Mov 9](/CME/Assets/Scenes/miniaturas/Mov%209.png "Escena - Mov 9")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 10
+_Descripción:_ Movimiento básico en tercera persona, topdown, que el personaje siga un camino.
+
+![Escena - Mov 10](/CME/Assets/Scenes/miniaturas/Mov%2010.png "Escena - Mov 10")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 11
+_Descripción:_ Movimiento básico en 2D (RigidBody).
+
+![Escena - Mov 11](/CME/Assets/Scenes/miniaturas/Mov%2011.png "Escena - Mov 11")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 12
+_Descripción:_ Movimiento básico en 2D (CharacterController).
+
+![Escena - Mov 12](/CME/Assets/Scenes/miniaturas/Mov%2012.png "Escena - Mov 12")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 13
+_Descripción:_ Movimiento básico de un auto en 3D.
+
+![Escena - Mov 13](/CME/Assets/Scenes/miniaturas/Mov%2013.png "Escena - Mov 13")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 14
+_Descripción:_ Movimiento básico de un auto en 2D.
+
+![Escena - Mov 14](/CME/Assets/Scenes/miniaturas/Mov%2014.png "Escena - Mov 14")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 15
+_Descripción:_ New Input System.
+
+![Escena - Mov 15](/CME/Assets/Scenes/miniaturas/Mov%2015.png "Escena - Mov 15")
+
+_Detalles:_
+-
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 16
+_Descripción:_ Implementación de movimientos complementarios en 3D.
+
+![Escena - Mov 16](/CME/Assets/Scenes/miniaturas/Mov%2016.png "Escena - Mov 16")
+
+_Detalles:_
+- Movimiento básico (WASD/joystick)
+- Salto
+- Doble salto
+- Deslizamiento o "dash"
+- Correr y sprintar
+- Movimiento en plataformas
+- Agacharse y deslizarse
+- Nadar
+- Vuelo o levitación
+- Sigilo o "crouch walking"
+- Teletransporte
+- Escalar paredes
+
+_Tutoriales guía:_ 
+- []()
+
+
+### Escena - Mov 17
+_Descripción:_ Implementación de movimientos complementarios en 2D.
+
+![Escena - Mov 17](/CME/Assets/Scenes/miniaturas/Mov%2017.png "Escena - Mov 17")
+
+_Detalles:_
+- Movimiento básico (WASD/joystick)
+- Salto
+- Doble salto
+- Deslizamiento o "dash"
+- Correr y sprintar
+- Movimiento en plataformas
+- Agacharse y deslizarse
+- Nadar
+- Vuelo o levitación
+- Sigilo o "crouch walking"
+- Teletransporte
+- Escalar paredes
+
+_Tutoriales guía:_ 
+- []()
 
 ---
 
