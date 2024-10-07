@@ -128,8 +128,14 @@ _Descripción:_ Movimiento básico en primera persona, programación "modular".
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
 
 _Detalles:_
-- Implementación modular que permite agregar y modificar componentes de movimiento de manera eficiente.
-- Separación de lógica de movimiento en diferentes scripts para facilitar la reutilización y mantenimiento.
+- Implementación modular de scripts.
+- Movimiento básico con teclas WASD y rotación con el mouse.
+- Sprint al presionar Shift para aumentar la velocidad.
+- Salto con detección de suelo y fuerza vertical.
+- Agacharse con reducción de altura y velocidad.
+- Efecto de headbob al caminar y correr.
+- Deslizamiento automático en pendientes inclinadas.
+- Zoom para apuntar mejor al presionar un botón.
 
 _Tutoriales guía:_ 
 - [First Person Controller - Basic Movement and Mouse Input (EP01) [Unity Tutorial]](https://www.youtube.com/watch?v=2FTDa14nryI&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21)
@@ -138,10 +144,7 @@ _Tutoriales guía:_
 - [First Person Controller - Crouching (EP04) [Unity Tutorial]](https://www.youtube.com/watch?v=-XNm7dPVVOQ&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=4)
 - [First Person Controller - Headbob (EP05) [Unity Tutorial]](https://www.youtube.com/watch?v=_c5IoF1op4E&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=5)
 - [First Person Controller - Slope Sliding (EP06) [Unity Tutorial]](https://www.youtube.com/watch?v=jIsHe9ARE70&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=6)
-- []()
-- []()
-- []()
-- []()
+- [First Person Controller - Zoom/ADS (EP07) [Unity Tutorial]](https://www.youtube.com/watch?v=hrCLJpDKKKw&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=7)
 
 _Resultado final:_ 
 - [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
@@ -158,6 +161,9 @@ _Detalles:_
 - Implementación de controles de joystick virtual.
 
 _Tutoriales guía:_ 
+- [Mobile Third Person Character Controller from Scratch [01/13]](https://www.youtube.com/watch?v=Im4VP_Kuylc&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
+- []()
+- []()
 - []()
 
 _Resultado final:_ 
