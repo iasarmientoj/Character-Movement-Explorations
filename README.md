@@ -133,6 +133,9 @@ _Detalles:_
 
 _Tutoriales guía:_ 
 - [First Person Controller - Basic Movement and Mouse Input (EP01) [Unity Tutorial]](https://www.youtube.com/watch?v=2FTDa14nryI&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21)
+- [First Person Controller - Sprinting (EP02) [Unity Tutorial]](https://www.youtube.com/watch?v=Ew4l5RPltG8&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=2)
+- [First Person Controller - Jumping (EP03) [Unity Tutorial]](https://www.youtube.com/watch?v=1ZnI7gXzQcg&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=3)
+- [First Person Controller - Crouching (EP04) [Unity Tutorial]](https://www.youtube.com/watch?v=-XNm7dPVVOQ&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=4)
 
 _Resultado final:_ 
 - [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
