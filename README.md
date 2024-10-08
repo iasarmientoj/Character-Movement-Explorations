@@ -151,9 +151,10 @@ _Resultado final:_
 
 
 ### Scene 8
-_Descripción:_ Movimiento básico en primera persona, para móvil (CharacterController).
+_Descripción:_ Movimiento básico en tercera persona, para móvil.
+#### Scene 8.1
 
-![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
+![Scene 8.1](/CME/Assets/Scenes/miniaturas/Scene%208.1.png "Scene 8.1")
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
@@ -171,7 +172,7 @@ _Resultado final:_
 
 
 ### Scene 9
-_Descripción:_ Movimiento básico en tercera persona, para móvil (RigidBody).
+_Descripción:_ Movimiento básico en primera persona, para móvil (CharacterController).
 
 ![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
 
