@@ -45,7 +45,7 @@ _Resultado final:_
 - [Create a Third Person Character Controller in Unity]()
 
 
-### Scene 3
+### Scene 3 ⭐
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones.
 
 ![Scene 3](/CME/Assets/Scenes/miniaturas/Scene%203.png "Scene 3")
@@ -84,7 +84,7 @@ _Resultado final:_
 - [How to Create a First Person Character Controller in Unity]()
 
 
-### Scene 5
+### Scene 5 ⭐
 _Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando Rigidbody) para PC con teclas WASD.
 
 ![Scene 5](/CME/Assets/Scenes/miniaturas/Scene%205.png "Scene 5")
@@ -122,7 +122,7 @@ _Resultado final:_
 - [First Person Movement with CharacterController in Unity]()
 
 
-### Scene 7 ⭐ 5.0
+### Scene 7 ⭐
 _Descripción:_ Movimiento básico en primera persona, programación "modular".
 
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
@@ -156,7 +156,6 @@ _Descripción:_ Movimiento básico en tercera persona, para móvil.
 ![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
 
 _Detalles:_
-- Comportamiento "muy extraño", no da una buena sensación al jugar con el personaje.
 - Personaje descargado de assetstore.
 - Joystick descargado de assetstore.
 - Capsule collider + RigidBody.
