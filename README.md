@@ -122,7 +122,7 @@ _Resultado final:_
 - [First Person Movement with CharacterController in Unity]()
 
 
-### Scene 7
+### Scene 7 ⭐ 5.0
 _Descripción:_ Movimiento básico en primera persona, programación "modular".
 
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
