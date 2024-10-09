@@ -152,20 +152,33 @@ _Resultado final:_
 
 ### Scene 8
 _Descripción:_ Movimiento básico en tercera persona, para móvil.
-#### Scene 8.1
 
-![Scene 8.1](/CME/Assets/Scenes/miniaturas/Scene%208.1.png "Scene 8.1")
+![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
 
 _Detalles:_
-- Adaptación del sistema de movimiento para dispositivos móviles.
-- Uso de touch input en lugar de teclas WASD.
-- Implementación de controles de joystick virtual.
+- Comportamiento "muy extraño", no da una buena sensación al jugar con el personaje.
+- Personaje descargado de assetstore.
+- Joystick descargado de assetstore.
+- Capsule collider + RigidBody.
+- Joystick para caminar.
+- Boton para saltar.
+- Zona para mover la cabeza o mirada.
+- Giro suavizado pero "raro".
 
 _Tutoriales guía:_ 
 - [Mobile Third Person Character Controller from Scratch [01/13]](https://www.youtube.com/watch?v=Im4VP_Kuylc&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
-- []()
-- []()
-- []()
+- [Unity Mobile Third Person Character Controller [ 02 / 13]](https://www.youtube.com/watch?v=kxaEBCJtBvs&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
+- [Unity Third Person Character Controller - Character Setup [03/13]](https://www.youtube.com/watch?v=ItKe1BS1Egk&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=3)
+- [Unity Third Person Rotation - Game Mathematics Trigonometry [04/13]](https://www.youtube.com/watch?v=FPkAmEwRMr4&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=4)
+- [Mobile Third Person Character Controller - Player Movement [05/13]](https://www.youtube.com/watch?v=qi-dSfrPSCw&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=5)
+- [Unity Mobile Third Person Character Controller (Local vs World Space) [ 06 / 13]](https://www.youtube.com/watch?v=UWn0Ap_AkZ8&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=6)
+- [Unity Mobile Third person Character Controller - Smoothing Movement [07/13]](https://www.youtube.com/watch?v=wcufT7HaUQM&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=7)
+- [Unity Mobile Third person Character Controller - Camera Movement And Rotation [08/13]](https://www.youtube.com/watch?v=U0mghZ3KYJ8&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=8)
+- [Unity Third person character Controller - Camera Bounds and Smoothness [09/13]](https://www.youtube.com/watch?v=Dzxs-4MfxfQ&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=9)
+- [Unity3d - Third person Character Controller - Player Rotation With Camera [10/13]](https://www.youtube.com/watch?v=ABbHXGLpKz8&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=10)
+- [Unity3d - Third person Character Controller - Joystick and touch for mobile [11/13]](https://www.youtube.com/watch?v=DGEJPz5XG2Y&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=11)
+- [Unity3d - Third person Character Controller - player Animations and Controllers [12/13]](https://www.youtube.com/watch?v=AuSTcrS2laE&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=12)
+- [Unity Third person Character Controller - Player Animator [13/13]](https://www.youtube.com/watch?v=rTbnF3O-ZJQ&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=13)
 
 _Resultado final:_ 
 - [How to Create a Mobile Character Controller in Unity](https://www.youtube.com/watch?v=E29PZzwGh6s)

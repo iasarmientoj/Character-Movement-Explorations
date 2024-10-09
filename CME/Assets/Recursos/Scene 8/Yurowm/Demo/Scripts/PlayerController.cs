@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour {
 	void Awake() {
 		animator = GetComponent<Animator> ();
 		if (arsenal.Length > 0)
-			SetArsenal (arsenal[0].name);
+			SetArsenal (arsenal[1].name);
 		}
 
 	public void SetArsenal(string name) {
@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour {
 					newLeftGun.transform.localPosition = Vector3.zero;
 					newLeftGun.transform.localRotation = Quaternion.Euler(90, 0, 0);
 				}
-				animator.runtimeAnimatorController = hand.controller;
+				//animator.runtimeAnimatorController = hand.controller;
 				return;
 				}
 		}
