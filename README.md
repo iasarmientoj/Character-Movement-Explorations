@@ -192,7 +192,6 @@ _Descripción:_ Movimiento básico en primera persona, para móvil (CharacterCon
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
 - Uso de touch input para controlar el personaje.
-- Incorporación de físicas usando Rigidbody para un movimiento más realista.
 
 _Tutoriales guía:_ 
 - []()
