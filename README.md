@@ -47,6 +47,7 @@ _Resultado final:_
 
 ### Scene 3 ⭐
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones.
+_Destacable:_ Animator organizado.
 
 ![Scene 3](/CME/Assets/Scenes/miniaturas/Scene%203.png "Scene 3")
 
@@ -86,6 +87,7 @@ _Resultado final:_
 
 ### Scene 5 ⭐
 _Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando Rigidbody) para PC con teclas WASD.
+_Destacable:_ Sistema de cámara tercera persona muy bien, con cinemachine y no atraviesa paredes.
 
 ![Scene 5](/CME/Assets/Scenes/miniaturas/Scene%205.png "Scene 5")
 
@@ -124,6 +126,7 @@ _Resultado final:_
 
 ### Scene 7 ⭐
 _Descripción:_ Movimiento básico en primera persona, programación "modular".
+_Destacable:_ Script de Player muy bien programado, modular y organizado. Se podría adaptar fácilmente a tercera persona y con cámara de cinemachine.
 
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
 
@@ -136,6 +139,7 @@ _Detalles:_
 - Efecto de headbob al caminar y correr.
 - Deslizamiento automático en pendientes inclinadas.
 - Zoom para apuntar mejor al presionar un botón.
+- Por mejorar, aún se pueden escalar rampas con saltos muy seguidos.
 
 _Tutoriales guía:_ 
 - [First Person Controller - Basic Movement and Mouse Input (EP01) [Unity Tutorial]](https://www.youtube.com/watch?v=2FTDa14nryI&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21)
@@ -163,6 +167,8 @@ _Detalles:_
 - Boton para saltar.
 - Zona para mover la cabeza o mirada.
 - Giro suavizado pero "raro".
+- Probado en Unity Remote.
+- Exportado a Android.
 
 _Tutoriales guía:_ 
 - [Mobile Third Person Character Controller from Scratch [01/13]](https://www.youtube.com/watch?v=Im4VP_Kuylc&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
