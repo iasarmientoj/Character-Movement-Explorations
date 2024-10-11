@@ -47,6 +47,7 @@ _Resultado final:_
 
 ### Scene 3 ⭐
 _Descripción:_ Movimiento básico en tercera persona **(usando CharacterController)** para PC con teclas WASD y animaciones.
+
 _Destacable:_ Animator organizado.
 
 ![Scene 3](/CME/Assets/Scenes/miniaturas/Scene%203.png "Scene 3")
@@ -87,6 +88,7 @@ _Resultado final:_
 
 ### Scene 5 ⭐
 _Descripción:_ Sistema de movimiento con cinemachine en tercera persona (usando Rigidbody) para PC con teclas WASD.
+
 _Destacable:_ Sistema de cámara tercera persona muy bien, con cinemachine y no atraviesa paredes.
 
 ![Scene 5](/CME/Assets/Scenes/miniaturas/Scene%205.png "Scene 5")
@@ -126,6 +128,7 @@ _Resultado final:_
 
 ### Scene 7 ⭐
 _Descripción:_ Movimiento básico en primera persona, programación "modular".
+
 _Destacable:_ Script de Player muy bien programado, modular y organizado. Se podría adaptar fácilmente a tercera persona y con cámara de cinemachine.
 
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
