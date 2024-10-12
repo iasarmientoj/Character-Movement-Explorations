@@ -24,9 +24,6 @@ _Detalles:_
 - Salto con fuerza de impulso vertical en el Rigidbody.
 - Comportamiento del movimiento ligeramente diferente en el salto.
 
-_Resultado final:_ 
-- [First Person Movement in Unity]()
-
 
 
 ### Scene 2
@@ -48,9 +45,6 @@ _Detalles:_
 - Solucionado bug al dejar de presionar W antes que Shift al correr.
 - Por mejorar: complejidad del Animator.
 - Por mejorar: la combinación de teclas en el movimiento causa varios bugs.
-
-_Resultado final:_ 
-- [Create a Third Person Character Controller in Unity]()
 
 
 
@@ -76,9 +70,6 @@ _Detalles:_
 - El personaje gira en el sentido del movimiento con rotación suavizada.
 - Animator con Blend Trees.
 
-_Resultado final:_ 
-- [Third Person Character Controller Using CharacterController Component in Unity]()
-
 
 
 ### Scene 4
@@ -97,9 +88,6 @@ _Detalles:_
 - Función de caminar, correr, saltar, agacharse y aplicar gravedad.
 - Movimiento de desplazamiento con Move en el CharacterController.
 - El personaje gira en el sentido del movimiento con rotación.
-
-_Resultado final:_ 
-- [How to Create a First Person Character Controller in Unity]()
 
 
 
@@ -124,9 +112,6 @@ _Detalles:_
 - La cámara no atraviesa paredes.
 - Varios tipos de cámara: exploración, combate y topdown.
 
-_Resultado final:_ 
-- [Cinemachine for Third Person Movement in Unity]()
-
 
 
 ### Scene 6
@@ -145,9 +130,6 @@ _Detalles:_
 - Con CharacterController.
 - Función de caminar, correr y saltar.
 - El personaje gira en el sentido del movimiento con rotación.
-
-_Resultado final:_ 
-- [First Person Movement with CharacterController in Unity]()
 
 
 
@@ -180,9 +162,6 @@ _Detalles:_
 - Deslizamiento automático en pendientes inclinadas.
 - Zoom para apuntar mejor al presionar un botón.
 - Por mejorar, aún se pueden escalar rampas con saltos muy seguidos.
-
-_Resultado final:_ 
-- [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
 
 
 
@@ -221,9 +200,6 @@ _Detalles:_
 - Probado en Unity Remote.
 - Exportado a Android.
 
-_Resultado final:_ 
-- [How to Create a Mobile Character Controller in Unity](https://www.youtube.com/watch?v=E29PZzwGh6s)
-
 
 
 ### Scene 9
@@ -239,9 +215,6 @@ _Descripción:_ Creación de un Joystick.
 
 _Detalles:_
 - 
-
-_Resultado final:_ 
-- []()
 
 
 
@@ -259,9 +232,6 @@ _Descripción:_
 _Detalles:_
 - 
 
-_Resultado final:_ 
-- []()
-
 
 
 ### Scene 9
@@ -278,9 +248,6 @@ _Descripción:_ Movimiento básico en primera persona, para móvil (CharacterCon
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
 - Uso de touch input para controlar el personaje.
-
-_Resultado final:_ 
-- [Unity Mobile Third Person Character Controller](https://www.youtube.com/watch?v=Ad1-23VICXU)
 
 
 
@@ -300,9 +267,6 @@ _Detalles:_
 - El personaje sigue un camino predefinido, ajustándose a las curvas del recorrido.
 - Integración de animaciones para el movimiento.
 
-_Resultado final:_ 
-- [Unity Pathfinding with NavMesh](https://www.youtube.com/watch?v=nq-Y2UBtW5c)
-
 
 
 ### Scene 11
@@ -320,9 +284,6 @@ _Detalles:_
 - Implementación de movimiento lateral y vertical en 2D.
 - Uso de Rigidbody 2D para manejar la física del personaje.
 - Integración de animaciones de caminar y saltar.
-
-_Resultado final:_ 
-- [How to Make a 2D Character Controller in Unity](https://www.youtube.com/watch?v=X6jzGT8K3z0)
 
 
 
@@ -342,9 +303,6 @@ _Detalles:_
 - Incorporación de saltos y desplazamientos.
 - Integración de un sistema de animaciones.
 
-_Resultado final:_ 
-- [Unity 2D Character Controller](https://www.youtube.com/watch?v=aAZZZ9OezXk)
-
 
 
 ### Scene 13
@@ -362,9 +320,6 @@ _Detalles:_
 - Implementación de controles para un auto en 3D.
 - Uso de Rigidbody para simular la física del vehículo.
 - Incorporación de animaciones de ruedas y efectos de movimiento.
-
-_Resultado final:_ 
-- [How to Make a Car Controller in Unity](https://www.youtube.com/watch?v=UL1y1C_wm1M)
 
 
 
@@ -384,9 +339,6 @@ _Detalles:_
 - Movimiento basado en Rigidbody 2D para simular la física.
 - Integración de animaciones para el auto y efectos visuales.
 
-_Resultado final:_ 
-- [How to Make a 2D Car Game in Unity](https://www.youtube.com/watch?v=w8x4WPtH55M)
-
 
 
 ### Scene 15
@@ -404,9 +356,6 @@ _Detalles:_
 - Implementación del nuevo sistema de entrada de Unity.
 - Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
 - Personalización de las entradas para el movimiento del personaje.
-
-_Resultado final:_ 
-- [Unity New Input System Tutorial](https://www.youtube.com/watch?v=qUpt_gXs5Nc)
 
 
 
@@ -434,9 +383,6 @@ _Detalles:_
 - Teletransporte.
 - Escalar paredes.
 
-_Resultado final:_ 
-- [Advanced Character Movement in Unity](https://www.youtube.com/watch?v=sQrYEt5-ZfE)
-
 
 
 ### Scene 17
@@ -462,9 +408,6 @@ _Detalles:_
 - Sigilo o "crouch walking".
 - Teletransporte.
 - Escalar paredes.
-
-_Resultado final:_ 
-- [2D Platformer Movement in Unity](https://www.youtube.com/watch?v=2sjS6BSY2t0)
 
 
 
