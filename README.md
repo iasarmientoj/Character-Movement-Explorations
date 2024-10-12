@@ -6,7 +6,7 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 ## Anotaciones escenas
 ### Scene 1
 
-<details><summary>_Tutoriales guía:_</summary>
+<details><summary><i>Tutoriales guía:</i></summary>
 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
