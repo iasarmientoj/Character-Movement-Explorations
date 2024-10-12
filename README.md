@@ -5,7 +5,6 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 
 ## Anotaciones escenas
 ### Scene 1
-
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
@@ -17,19 +16,23 @@ _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
 
 _Detalles:_
-- Orientación de cámara controlada con el mouse.
-- Movimiento sobre el plano X,Z añadiendo fuerza al Rigidbody del personaje.
-- Drag en la detección de suelo con raycast.
-- Velocidad máxima limitada a un valor fijo.
-- Salto con fuerza de impulso vertical en el Rigidbody.
-- Comportamiento del movimiento ligeramente diferente en el salto.
+- Movimiento en primera persona con Rigidbody.
+- Configuración de la cámara independiente de la jerarquía del jugador.
+- Implementación de salto con control en el aire.
+- Ajuste de fricción dinámica para evitar que el jugador se adhiera a las paredes.
+- Sincronización de la cámara con el movimiento del jugador.
+- Configuración de la gravedad para un comportamiento de salto más natural.
+- Control de velocidad y arrastre (drag) para un movimiento más preciso.
 
-
-_Resultado final:_ 
-- [First Person Movement in Unity]()
 
 
 ### Scene 2
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
+
+</details>
+
 _Descripción:_ Movimiento básico en tercera persona **(usando Rigidbody)** para PC con teclas WASD y animaciones.
 
 ![Scene 2](/CME/Assets/Scenes/miniaturas/Scene%202.png "Scene 2")
@@ -43,11 +46,6 @@ _Detalles:_
 - Por mejorar: complejidad del Animator.
 - Por mejorar: la combinación de teclas en el movimiento causa varios bugs.
 
-_Tutoriales guía:_ 
-- [Basic Third Person Character Controller in Unity - Unity C# Tutorial 2022](https://www.youtube.com/watch?v=cEqjkubspGo)
-
-_Resultado final:_ 
-- [Create a Third Person Character Controller in Unity]()
 
 
 ### Scene 3 ⭐
@@ -64,10 +62,13 @@ _Detalles:_
 - El personaje gira en el sentido del movimiento con rotación suavizada.
 - Animator con Blend Trees.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [SCRIPT De MOVIMIENTO Para JUEGOS En TERCERA PERSONA Con UNITY 3D](https://www.youtube.com/watch?v=ffs_dI6gzyQ)
 - [Como Hacer TRANSICIONES Entre ANIMACIONES En UNITY 3D](https://www.youtube.com/watch?v=NhEN9rAU2_w)
 - [Como Utilizar BLEND TREES En UNITY Para Combinar ANIMACIONES](https://www.youtube.com/watch?v=1qYXd7eCQss)
+
+</details>
 
 _Resultado final:_ 
 - [Third Person Character Controller Using CharacterController Component in Unity]()
@@ -84,8 +85,11 @@ _Detalles:_
 - Movimiento de desplazamiento con Move en el CharacterController.
 - El personaje gira en el sentido del movimiento con rotación.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [UNITY 3D PLAYER MOVEMENT in 2 MINUTES! FPS Shooter](https://www.youtube.com/watch?v=1uW-GbHrtQc)
+
+</details>
 
 _Resultado final:_ 
 - [How to Create a First Person Character Controller in Unity]()
@@ -106,8 +110,11 @@ _Detalles:_
 - La cámara no atraviesa paredes.
 - Varios tipos de cámara: exploración, combate y topdown.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [THIRD PERSON MOVEMENT in 11 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=UCwwn2q4Vys)
+
+</details>
 
 _Resultado final:_ 
 - [Cinemachine for Third Person Movement in Unity]()
@@ -124,8 +131,11 @@ _Detalles:_
 - Función de caminar, correr y saltar.
 - El personaje gira en el sentido del movimiento con rotación.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [How To Make An FPS Player In Under A Minute - Unity Tutorial](https://www.youtube.com/watch?v=qQLvcS9FxnY)
+
+</details>
 
 _Resultado final:_ 
 - [First Person Movement with CharacterController in Unity]()
@@ -149,7 +159,8 @@ _Detalles:_
 - Zoom para apuntar mejor al presionar un botón.
 - Por mejorar, aún se pueden escalar rampas con saltos muy seguidos.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [First Person Controller - Basic Movement and Mouse Input (EP01) [Unity Tutorial]](https://www.youtube.com/watch?v=2FTDa14nryI&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21)
 - [First Person Controller - Sprinting (EP02) [Unity Tutorial]](https://www.youtube.com/watch?v=Ew4l5RPltG8&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=2)
 - [First Person Controller - Jumping (EP03) [Unity Tutorial]](https://www.youtube.com/watch?v=1ZnI7gXzQcg&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=3)
@@ -157,6 +168,8 @@ _Tutoriales guía:_
 - [First Person Controller - Headbob (EP05) [Unity Tutorial]](https://www.youtube.com/watch?v=_c5IoF1op4E&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=5)
 - [First Person Controller - Slope Sliding (EP06) [Unity Tutorial]](https://www.youtube.com/watch?v=jIsHe9ARE70&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=6)
 - [First Person Controller - Zoom/ADS (EP07) [Unity Tutorial]](https://www.youtube.com/watch?v=hrCLJpDKKKw&list=PLfhbBaEcybmgidDH3RX_qzFM0mIxWJa21&index=7)
+
+</details>
 
 _Resultado final:_ 
 - [Unity Modular Character Controller](https://www.youtube.com/watch?v=8F4H2g8w8RM)
@@ -178,7 +191,8 @@ _Detalles:_
 - Probado en Unity Remote.
 - Exportado a Android.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - [Mobile Third Person Character Controller from Scratch [01/13]](https://www.youtube.com/watch?v=Im4VP_Kuylc&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
 - [Unity Mobile Third Person Character Controller [ 02 / 13]](https://www.youtube.com/watch?v=kxaEBCJtBvs&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=2)
 - [Unity Third Person Character Controller - Character Setup [03/13]](https://www.youtube.com/watch?v=ItKe1BS1Egk&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=3)
@@ -194,6 +208,8 @@ _Tutoriales guía:_
 - [Unity Third person Character Controller - Player Animator [13/13]](https://www.youtube.com/watch?v=rTbnF3O-ZJQ&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=13)
 - [UNITY REMOTE 5 NOT WORKING? HERE IS MY SETUP TUTORIAL AND CHECKLIST FOR ANDROID AND IOS](https://www.youtube.com/watch?v=L6CkG2sgupA)
 
+</details>
+
 _Resultado final:_ 
 - [How to Create a Mobile Character Controller in Unity](https://www.youtube.com/watch?v=E29PZzwGh6s)
 
@@ -206,8 +222,11 @@ _Descripción:_ Creación de un Joystick.
 _Detalles:_
 - 
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - []()
@@ -223,8 +242,11 @@ _Descripción:_
 _Detalles:_
 - 
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - []()
@@ -242,8 +264,11 @@ _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
 - Uso de touch input para controlar el personaje.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [Unity Mobile Third Person Character Controller](https://www.youtube.com/watch?v=Ad1-23VICXU)
@@ -259,8 +284,11 @@ _Detalles:_
 - El personaje sigue un camino predefinido, ajustándose a las curvas del recorrido.
 - Integración de animaciones para el movimiento.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [Unity Pathfinding with NavMesh](https://www.youtube.com/watch?v=nq-Y2UBtW5c)
@@ -276,8 +304,11 @@ _Detalles:_
 - Uso de Rigidbody 2D para manejar la física del personaje.
 - Integración de animaciones de caminar y saltar.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [How to Make a 2D Character Controller in Unity](https://www.youtube.com/watch?v=X6jzGT8K3z0)
@@ -293,8 +324,11 @@ _Detalles:_
 - Incorporación de saltos y desplazamientos.
 - Integración de un sistema de animaciones.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [Unity 2D Character Controller](https://www.youtube.com/watch?v=aAZZZ9OezXk)
@@ -310,8 +344,11 @@ _Detalles:_
 - Uso de Rigidbody para simular la física del vehículo.
 - Incorporación de animaciones de ruedas y efectos de movimiento.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [How to Make a Car Controller in Unity](https://www.youtube.com/watch?v=UL1y1C_wm1M)
@@ -327,8 +364,11 @@ _Detalles:_
 - Movimiento basado en Rigidbody 2D para simular la física.
 - Integración de animaciones para el auto y efectos visuales.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [How to Make a 2D Car Game in Unity](https://www.youtube.com/watch?v=w8x4WPtH55M)
@@ -344,8 +384,11 @@ _Detalles:_
 - Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
 - Personalización de las entradas para el movimiento del personaje.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [Unity New Input System Tutorial](https://www.youtube.com/watch?v=qUpt_gXs5Nc)
@@ -369,8 +412,11 @@ _Detalles:_
 - Teletransporte.
 - Escalar paredes.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [Advanced Character Movement in Unity](https://www.youtube.com/watch?v=sQrYEt5-ZfE)
@@ -394,8 +440,11 @@ _Detalles:_
 - Teletransporte.
 - Escalar paredes.
 
-_Tutoriales guía:_ 
+<details><summary><i>Tutoriales guía:</i></summary>
+
 - []()
+
+</details>
 
 _Resultado final:_ 
 - [2D Platformer Movement in Unity](https://www.youtube.com/watch?v=2sjS6BSY2t0)
