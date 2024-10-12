@@ -205,11 +205,59 @@ _Detalles:_
 ### Scene 9
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [JoyStick In Under 2 Minutes With Unity New Input System](https://www.youtube.com/watch?v=grCToWRfJx4)
 
 </details>
 
 _Descripción:_ Creación de un Joystick.
+
+![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+
+_Detalles:_
+- 
+
+
+[id]: 10
+### Scene [id]
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ 
+
+![Scene [id]](/CME/Assets/Scenes/miniaturas/Scene%20[id].png "Scene [id]")
+
+_Detalles:_
+- 
+
+
+
+### Scene 9
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ 
+
+![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+
+_Detalles:_
+- 
+
+
+
+### Scene 9
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ 
 
 ![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
 
