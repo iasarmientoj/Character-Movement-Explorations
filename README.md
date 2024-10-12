@@ -217,7 +217,6 @@ _Detalles:_
 - 
 
 
-[id]: 10
 ### Scene [id]
 <details><summary><i>Tutoriales guía:</i></summary>
 
@@ -232,6 +231,7 @@ _Descripción:_
 _Detalles:_
 - 
 
+[id]: 10
 
 
 ### Scene 9
