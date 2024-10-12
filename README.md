@@ -5,6 +5,13 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 
 ## Anotaciones escenas
 ### Scene 1
+
+<details><summary>_Tutoriales guía:_</summary>
+
+- [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
+
+</details>
+
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD.
 
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
@@ -17,8 +24,6 @@ _Detalles:_
 - Salto con fuerza de impulso vertical en el Rigidbody.
 - Comportamiento del movimiento ligeramente diferente en el salto.
 
-_Tutoriales guía:_ 
-- [FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial](https://www.youtube.com/watch?v=f473C43s8nE)
 
 _Resultado final:_ 
 - [First Person Movement in Unity]()
@@ -158,7 +163,7 @@ _Resultado final:_
 
 
 ### Scene 8
-_Descripción:_ Movimiento básico en tercera persona, para móvil.
+_Descripción:_ Movimiento básico en tercera persona, para móvil, con Joystick descargado.
 
 ![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
 
@@ -187,9 +192,45 @@ _Tutoriales guía:_
 - [Unity3d - Third person Character Controller - Joystick and touch for mobile [11/13]](https://www.youtube.com/watch?v=DGEJPz5XG2Y&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=11)
 - [Unity3d - Third person Character Controller - player Animations and Controllers [12/13]](https://www.youtube.com/watch?v=AuSTcrS2laE&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=12)
 - [Unity Third person Character Controller - Player Animator [13/13]](https://www.youtube.com/watch?v=rTbnF3O-ZJQ&list=PLgAF6rpCsTCgSLHAnkd_M793TG3sekY8D&index=13)
+- [UNITY REMOTE 5 NOT WORKING? HERE IS MY SETUP TUTORIAL AND CHECKLIST FOR ANDROID AND IOS](https://www.youtube.com/watch?v=L6CkG2sgupA)
 
 _Resultado final:_ 
 - [How to Create a Mobile Character Controller in Unity](https://www.youtube.com/watch?v=E29PZzwGh6s)
+
+
+### Scene 9
+_Descripción:_ Creación de un Joystick.
+
+![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+
+_Detalles:_
+- 
+
+_Tutoriales guía:_ 
+- []()
+
+_Resultado final:_ 
+- []()
+
+
+
+
+### Scene 9
+_Descripción:_ 
+
+![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+
+_Detalles:_
+- 
+
+_Tutoriales guía:_ 
+- []()
+
+_Resultado final:_ 
+- []()
+
+
+
 
 
 ### Scene 9
