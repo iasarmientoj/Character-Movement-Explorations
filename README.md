@@ -219,22 +219,24 @@ _Detalles:_
 - Se mueve con transform.Translate.
 - Player no gira en la dirección a la que se mueve.
 - Probado en Unity Remote.
+- Joystick fijo.
 
 
 
 ### Scene 10
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [How to make Virtual Joystick | Unity in 60 seconds](https://www.youtube.com/watch?v=vBxNwCEb68g)
 
 </details>
 
-_Descripción:_ 
+_Descripción:_ Creación de Joystick simple.
 
 ![Scene 10](/CME/Assets/Scenes/miniaturas/Scene%2010.png "Scene 10")
 
 _Detalles:_
-- 
+- Devuelve los valores de -1 a 1 en cada eje.
+- Un poco buggeado.
 
 
 
