@@ -209,15 +209,20 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Creación de un Joystick.
+_Descripción:_ Creación de un Joystick con New Input System.
 
 ![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
 
 _Detalles:_
-- 
+- No comprendo del todo cómo funciona este Joystick
+- Player sin Rigidbody ni CharacterController.
+- Se mueve con transform.Translate.
+- Player no gira en la dirección a la que se mueve.
+- Probado en Unity Remote.
 
 
-### Scene [id]
+
+### Scene 10
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -226,15 +231,14 @@ _Detalles:_
 
 _Descripción:_ 
 
-![Scene [id]](/CME/Assets/Scenes/miniaturas/Scene%20[id].png "Scene [id]")
+![Scene 10](/CME/Assets/Scenes/miniaturas/Scene%2010.png "Scene 10")
 
 _Detalles:_
 - 
 
-[id]: 10
 
 
-### Scene 9
+### Scene 11
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -243,14 +247,14 @@ _Detalles:_
 
 _Descripción:_ 
 
-![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
 _Detalles:_
 - 
 
 
 
-### Scene 9
+### Scene 12
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -259,14 +263,14 @@ _Detalles:_
 
 _Descripción:_ 
 
-![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
 _Detalles:_
 - 
 
 
 
-### Scene 9
+### Scene 13
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -275,7 +279,7 @@ _Detalles:_
 
 _Descripción:_ 
 
-![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
 _Detalles:_
 - 
