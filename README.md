@@ -243,16 +243,16 @@ _Detalles:_
 ### Scene 11
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [TOUCH CONTROLS in Unity!](https://www.youtube.com/watch?v=bp2PiFC9sSs)
 
 </details>
 
-_Descripción:_ 
+_Descripción:_ Mover un objeto tocando la pantalla en 2D.
 
 ![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
 _Detalles:_
-- 
+- Ver rayos del origen a cada toque de la pantalla.
 
 
 
