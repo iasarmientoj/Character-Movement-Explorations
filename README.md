@@ -247,7 +247,7 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Mover un objeto tocando la pantalla en 2D.
+_Descripción:_ Mover un objeto al lugar donde está tocando la pantalla en 2D.
 
 ![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
@@ -259,16 +259,18 @@ _Detalles:_
 ### Scene 12
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [Easy character move with mobile joystick in unity | cinemachine| | hyper casual |](https://www.youtube.com/watch?v=sYDq5s1EXiI)
 
 </details>
 
-_Descripción:_ 
+_Descripción:_ Mover personaje topdown hyper casual games vertical con Joystick.
 
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
 _Detalles:_
-- 
+- Joystick flotante de la assetstore.
+- Animación de idle y run.
+- Estilo hyper casual game.
 
 
 
@@ -481,6 +483,11 @@ _Descripción:_ Guía para la creación y animación de personajes humanoides 3D
 _Descripción:_ Guía para texturizado en Blender. 
 1. Optimizar la superficie con la herramienta Decimate en Blender: [Blender 3.3 - Decimate Mesh To Lower Poly Count](https://www.youtube.com/watch?v=GrD71-wXrIA)
 2. Generar la textura preliminar en Blender: [Blender materials export to GLB/GLTF](https://www.youtube.com/watch?v=2sgKu0bKUwU)
+
+### Arreglar sombras en Android
+_Descripción:_ Guía para mejorar calidad de sombras. 
+1. En Quality cambi<r Stable Fit a Close Fit. [Pixelated shadow in Android. Any solutions?](https://discussions.unity.com/t/pixelated-shadow-in-android-any-solutions/548966/7)
+2. Ir a Graphics > Tier Settings y activar todas las shadow cascades. [Pixelated shadow in Android. Any solutions?](https://discussions.unity.com/t/pixelated-shadow-in-android-any-solutions/548966/7)
 
 
 
