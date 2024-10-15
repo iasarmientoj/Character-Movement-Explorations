@@ -256,7 +256,7 @@ _Detalles:_
 
 
 
-### Scene 12
+### Scene 12 ⭐
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - [Easy character move with mobile joystick in unity | cinemachine| | hyper casual |](https://www.youtube.com/watch?v=sYDq5s1EXiI)
@@ -264,6 +264,7 @@ _Detalles:_
 </details>
 
 _Descripción:_ Mover personaje topdown hyper casual games vertical con Joystick.
+_Destacable:_ Estilo propio de los juegos hyper casual.
 
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
@@ -277,16 +278,19 @@ _Detalles:_
 ### Scene 13
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [Setup 3D Pathfinding Agents In Minutes Using Unity](https://www.youtube.com/watch?v=mJu-zdZ9dyE)
+- [How to use Unity NavMesh Pathfinding! (Unity Tutorial)](https://www.youtube.com/watch?v=atCOd4o7tG4)
 
 </details>
 
-_Descripción:_ 
+_Descripción:_ Navegación sobre mapa con NavMesh.
 
 ![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
 _Detalles:_
-- 
+- Movimiento al apuntar con el ratón.
+- Movimiento con objeto Target y presionar espacio.
+- Sin animaciones.
 
 
 
