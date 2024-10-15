@@ -294,56 +294,20 @@ _Detalles:_
 
 
 
-### Scene 9
+### Scene 14
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
 
 </details>
 
-_Descripción:_ Movimiento básico en primera persona, para móvil (CharacterController).
+_Descripción:_ Movimiento básico en primera persona, para móvil, adaptación de Scene 7.
 
-![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
+![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
 - Uso de touch input para controlar el personaje.
-
-
-
-### Scene 10
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- []()
-
-</details>
-
-_Descripción:_ Movimiento básico en tercera persona, topdown, que el personaje siga un camino.
-
-![Scene 10](/CME/Assets/Scenes/miniaturas/Scene%2010.png "Scene 10")
-
-_Detalles:_
-- Implementación de un sistema de navegación basado en waypoints.
-- El personaje sigue un camino predefinido, ajustándose a las curvas del recorrido.
-- Integración de animaciones para el movimiento.
-
-
-
-### Scene 11
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- []()
-
-</details>
-
-_Descripción:_ Movimiento básico en 2D (RigidBody).
-
-![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
-
-_Detalles:_
-- Implementación de movimiento lateral y vertical en 2D.
-- Uso de Rigidbody 2D para manejar la física del personaje.
-- Integración de animaciones de caminar y saltar.
 
 
 
@@ -354,14 +318,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Movimiento básico en 2D (CharacterController).
+_Descripción:_ Movimiento básico en 2D (RigidBody).
 
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
 _Detalles:_
-- Sistema de movimiento 2D utilizando CharacterController.
-- Incorporación de saltos y desplazamientos.
-- Integración de un sistema de animaciones.
+- Implementación de movimiento lateral y vertical en 2D.
+- Uso de Rigidbody 2D para manejar la física del personaje.
+- Integración de animaciones de caminar y saltar.
 
 
 
@@ -372,14 +336,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Movimiento básico de un auto en 3D.
+_Descripción:_ Movimiento básico en 2D (CharacterController).
 
 ![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
 _Detalles:_
-- Implementación de controles para un auto en 3D.
-- Uso de Rigidbody para simular la física del vehículo.
-- Incorporación de animaciones de ruedas y efectos de movimiento.
+- Sistema de movimiento 2D utilizando CharacterController.
+- Incorporación de saltos y desplazamientos.
+- Integración de un sistema de animaciones.
 
 
 
@@ -390,14 +354,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Movimiento básico de un auto en 2D.
+_Descripción:_ Movimiento básico de un auto en 3D.
 
 ![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
 _Detalles:_
-- Implementación de controles para un auto en 2D.
-- Movimiento basado en Rigidbody 2D para simular la física.
-- Integración de animaciones para el auto y efectos visuales.
+- Implementación de controles para un auto en 3D.
+- Uso de Rigidbody para simular la física del vehículo.
+- Incorporación de animaciones de ruedas y efectos de movimiento.
 
 
 
@@ -408,14 +372,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ New Input System.
+_Descripción:_ Movimiento básico de un auto en 2D.
 
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
 _Detalles:_
-- Implementación del nuevo sistema de entrada de Unity.
-- Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
-- Personalización de las entradas para el movimiento del personaje.
+- Implementación de controles para un auto en 2D.
+- Movimiento basado en Rigidbody 2D para simular la física.
+- Integración de animaciones para el auto y efectos visuales.
 
 
 
@@ -426,9 +390,27 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Implementación de movimientos complementarios en 3D.
+_Descripción:_ New Input System.
 
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
+
+_Detalles:_
+- Implementación del nuevo sistema de entrada de Unity.
+- Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
+- Personalización de las entradas para el movimiento del personaje.
+
+
+
+### Scene 17
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ Implementación de movimientos complementarios en 3D.
+
+![Scene 17](/CME/Assets/Scenes/miniaturas/Scene%2017.png "Scene 17")
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
@@ -445,7 +427,7 @@ _Detalles:_
 
 
 
-### Scene 17
+### Scene 18
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -454,7 +436,7 @@ _Detalles:_
 
 _Descripción:_ Implementación de movimientos complementarios en 2D.
 
-![Scene 17](/CME/Assets/Scenes/miniaturas/Scene%2017.png "Scene 17")
+![Scene 18](/CME/Assets/Scenes/miniaturas/Scene%2018.png "Scene 18")
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
