@@ -301,67 +301,13 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Movimiento básico en primera persona, para móvil, adaptación de Scene 7.
+_Descripción:_ Movimiento básico en primera persona, para móvil, adaptación de Scene 7 con Scene 8.
 
 ![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
 - Uso de touch input para controlar el personaje.
-
-
-
-### Scene 12
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- []()
-
-</details>
-
-_Descripción:_ Movimiento básico en 2D (RigidBody).
-
-![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
-
-_Detalles:_
-- Implementación de movimiento lateral y vertical en 2D.
-- Uso de Rigidbody 2D para manejar la física del personaje.
-- Integración de animaciones de caminar y saltar.
-
-
-
-### Scene 13
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- []()
-
-</details>
-
-_Descripción:_ Movimiento básico en 2D (CharacterController).
-
-![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
-
-_Detalles:_
-- Sistema de movimiento 2D utilizando CharacterController.
-- Incorporación de saltos y desplazamientos.
-- Integración de un sistema de animaciones.
-
-
-
-### Scene 14
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- []()
-
-</details>
-
-_Descripción:_ Movimiento básico de un auto en 3D.
-
-![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
-
-_Detalles:_
-- Implementación de controles para un auto en 3D.
-- Uso de Rigidbody para simular la física del vehículo.
-- Incorporación de animaciones de ruedas y efectos de movimiento.
 
 
 
@@ -372,14 +318,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Movimiento básico de un auto en 2D.
+_Descripción:_ Movimiento básico en 2D (RigidBody).
 
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
 _Detalles:_
-- Implementación de controles para un auto en 2D.
-- Movimiento basado en Rigidbody 2D para simular la física.
-- Integración de animaciones para el auto y efectos visuales.
+- Implementación de movimiento lateral y vertical en 2D.
+- Uso de Rigidbody 2D para manejar la física del personaje.
+- Integración de animaciones de caminar y saltar.
 
 
 
@@ -390,14 +336,14 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ New Input System.
+_Descripción:_ Movimiento básico en 2D (CharacterController).
 
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
 
 _Detalles:_
-- Implementación del nuevo sistema de entrada de Unity.
-- Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
-- Personalización de las entradas para el movimiento del personaje.
+- Sistema de movimiento 2D utilizando CharacterController.
+- Incorporación de saltos y desplazamientos.
+- Integración de un sistema de animaciones.
 
 
 
@@ -408,9 +354,63 @@ _Detalles:_
 
 </details>
 
-_Descripción:_ Implementación de movimientos complementarios en 3D.
+_Descripción:_ Movimiento básico de un auto en 3D.
 
 ![Scene 17](/CME/Assets/Scenes/miniaturas/Scene%2017.png "Scene 17")
+
+_Detalles:_
+- Implementación de controles para un auto en 3D.
+- Uso de Rigidbody para simular la física del vehículo.
+- Incorporación de animaciones de ruedas y efectos de movimiento.
+
+
+
+### Scene 18
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ Movimiento básico de un auto en 2D.
+
+![Scene 18](/CME/Assets/Scenes/miniaturas/Scene%2018.png "Scene 18")
+
+_Detalles:_
+- Implementación de controles para un auto en 2D.
+- Movimiento basado en Rigidbody 2D para simular la física.
+- Integración de animaciones para el auto y efectos visuales.
+
+
+
+### Scene 19
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ New Input System.
+
+![Scene 19](/CME/Assets/Scenes/miniaturas/Scene%2019.png "Scene 19")
+
+_Detalles:_
+- Implementación del nuevo sistema de entrada de Unity.
+- Soporte para múltiples dispositivos de entrada (mouse, teclado, controladores).
+- Personalización de las entradas para el movimiento del personaje.
+
+
+
+### Scene 20
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- []()
+
+</details>
+
+_Descripción:_ Implementación de movimientos complementarios en 3D.
+
+![Scene 20](/CME/Assets/Scenes/miniaturas/Scene%2020.png "Scene 20")
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
@@ -427,7 +427,7 @@ _Detalles:_
 
 
 
-### Scene 18
+### Scene 21
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -436,7 +436,7 @@ _Detalles:_
 
 _Descripción:_ Implementación de movimientos complementarios en 2D.
 
-![Scene 18](/CME/Assets/Scenes/miniaturas/Scene%2018.png "Scene 18")
+![Scene 21](/CME/Assets/Scenes/miniaturas/Scene%2021.png "Scene 21")
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
