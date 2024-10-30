@@ -294,7 +294,7 @@ _Detalles:_
 
 
 
-### Scene 14
+### Scene 14 ⭐
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - []()
@@ -307,7 +307,9 @@ _Descripción:_ Movimiento básico en primera persona, para móvil, adaptación 
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
-- Uso de touch input para controlar el personaje.
+- Uso de joystick, para desplazar al personaje.
+- Uso de botones con events, para ejecutar acciones: saltar, correr, zoom, agacgarse.
+- Uso de touch panel, para rotar la cabeza del personaje.
 
 
 
