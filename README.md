@@ -316,7 +316,7 @@ _Detalles:_
 ### Scene 15
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [2D Player Movement In Unity](https://www.youtube.com/watch?v=K1xZ-rycYY8)
 
 </details>
 
@@ -325,9 +325,10 @@ _Descripción:_ Movimiento básico en 2D (RigidBody).
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
 _Detalles:_
-- Implementación de movimiento lateral y vertical en 2D.
+- Implementación de movimiento lateral y salto en 2D.
 - Uso de Rigidbody 2D para manejar la física del personaje.
-- Integración de animaciones de caminar y saltar.
+- Sin animaciones.
+- Flip dependiendo de la dirección de movimiento.
 
 
 
