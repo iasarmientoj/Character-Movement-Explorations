@@ -15,7 +15,6 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD.
 
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
-![Scene 1](https://youtu.be/gsb55bVfXGU "Scene 1")
 
 <video src="https://youtu.be/gsb55bVfXGU" width="320" height="240" First-Person Movement System in Unity></video>
 
