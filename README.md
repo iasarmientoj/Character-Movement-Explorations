@@ -16,13 +16,8 @@ _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas
 
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
 
-<video src="https://youtu.be/gsb55bVfXGU" width="320" height="240" First-Person Movement System in Unity></video>
+[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%201yt.jpg)](https://youtu.be/gsb55bVfXGU)
 
-<div align="left">
-      <a href="https://youtu.be/gsb55bVfXGU">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
-      </a>
-</div>
 
 _Detalles:_
 - Orientación de cámara controlada con el mouse.
