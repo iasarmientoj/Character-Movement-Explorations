@@ -18,6 +18,12 @@ _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas
 
 <video src="https://youtu.be/gsb55bVfXGU" width="320" height="240" First-Person Movement System in Unity></video>
 
+<div align="left">
+      <a href="https://youtu.be/gsb55bVfXGU">
+         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 _Detalles:_
 - Orientación de cámara controlada con el mouse.
 - Movimiento sobre el plano X,Z añadiendo fuerza al Rigidbody del personaje.
