@@ -15,6 +15,9 @@ Este repositorio contiene una serie de exploraciones y pruebas relacionadas con 
 _Descripción:_ Movimiento básico en primera persona para PC con mouse y teclas WASD.
 
 ![Scene 1](/CME/Assets/Scenes/miniaturas/Scene%201.png "Scene 1")
+![Scene 1](https://youtu.be/gsb55bVfXGU "Scene 1")
+
+<video src="https://youtu.be/gsb55bVfXGU" width="320" height="240" First-Person Movement System in Unity></video>
 
 _Detalles:_
 - Orientación de cámara controlada con el mouse.
@@ -335,11 +338,11 @@ _Detalles:_
 ### Scene 16
 <details><summary><i>Tutoriales guía:</i></summary>
 
-- []()
+- [ULTIMATE 2D Platformer Controller for Unity](https://www.youtube.com/watch?v=zHSWG05byEc)
 
 </details>
 
-_Descripción:_ Movimiento básico en 2D (CharacterController).
+_Descripción:_ Movimiento básico en 2D.
 
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
 
