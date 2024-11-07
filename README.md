@@ -40,7 +40,7 @@ _Descripción:_ Movimiento básico en tercera persona **(usando Rigidbody)** par
 
 ![Scene 2](/CME/Assets/Scenes/miniaturas/Scene%202.png "Scene 2")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%202yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Third-Person Character Movement in Unity](/CME/Assets/Scenes/miniaturas/Scene%202yt.jpg)](https://youtu.be/NzED5H33hPo)
 
 _Detalles:_
 - Movimiento de desplazamiento con velocity en el Rigidbody.
@@ -68,7 +68,7 @@ _Destacable:_ Animator organizado.
 
 ![Scene 3](/CME/Assets/Scenes/miniaturas/Scene%203.png "Scene 3")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%203yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Third-person character movement system in Unity using CharacterController and organized animations](/CME/Assets/Scenes/miniaturas/Scene%203yt.jpg)](https://youtu.be/cEQbxtYwGEw)
 
 _Detalles:_
 - Movimiento de desplazamiento con Move en el CharacterController.
@@ -90,7 +90,7 @@ _Descripción:_ Sistema de movimiento en primera persona **(usando CharacterCont
 
 ![Scene 4](/CME/Assets/Scenes/miniaturas/Scene%204.png "Scene 4")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%204yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![First-person movement system in Unity using CharacterController with walking, running, jumping, and crouching features](/CME/Assets/Scenes/miniaturas/Scene%204yt.jpg)](https://youtu.be/ImpIO2B_9Q8)
 
 _Detalles:_
 - Script tomado del tutorial.
@@ -113,7 +113,7 @@ _Destacable:_ Sistema de cámara tercera persona muy bien, con cinemachine y no 
 
 ![Scene 5](/CME/Assets/Scenes/miniaturas/Scene%205.png "Scene 5")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%205yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Third-person movement system in Unity with Cinemachine for smooth camera control and wall collision](/CME/Assets/Scenes/miniaturas/Scene%205yt.jpg)](https://youtu.be/yPbZFs6GX_0)
 
 _Detalles:_
 - Script tomado del tutorial.
@@ -136,7 +136,7 @@ _Descripción:_ Movimiento básico en primera persona (usando CharacterControlle
 
 ![Scene 6](/CME/Assets/Scenes/miniaturas/Scene%206.png "Scene 6")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%206yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![First-person movement system in Unity with CharacterController for smooth walking, running, and jumping](/CME/Assets/Scenes/miniaturas/Scene%206yt.jpg)](https://youtu.be/nBTNeh91_tw)
 
 _Detalles:_
 - Script tomado del tutorial.
@@ -165,7 +165,7 @@ _Destacable:_ Script de Player muy bien programado, modular y organizado. Se pod
 
 ![Scene 7](/CME/Assets/Scenes/miniaturas/Scene%207.png "Scene 7")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%207yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Modular first-person movement system in Unity with sprint, jump, crouch, and headbob effects](/CME/Assets/Scenes/miniaturas/Scene%207yt.jpg)](https://youtu.be/WAePyiP-_oY)
 
 _Detalles:_
 - Implementación modular de scripts.
@@ -204,7 +204,7 @@ _Descripción:_ Movimiento básico en tercera persona, para móvil, con Joystick
 
 ![Scene 8](/CME/Assets/Scenes/miniaturas/Scene%208.png "Scene 8")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%208yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Basic Third-Person Mobile Character Controller with Joystick in Unity](/CME/Assets/Scenes/miniaturas/Scene%208yt.jpg)](https://youtu.be/FHHSUN3j2Uc)
 
 _Detalles:_
 - Personaje descargado de assetstore.
@@ -230,7 +230,7 @@ _Descripción:_ Creación de un Joystick con New Input System.
 
 ![Scene 9](/CME/Assets/Scenes/miniaturas/Scene%209.png "Scene 9")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%209yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Mobile Joystick Setup with Unity's New Input System for Basic Player Movement](/CME/Assets/Scenes/miniaturas/Scene%209yt.jpg)](https://youtu.be/pl-8QB-ByV4)
 
 _Detalles:_
 - No comprendo del todo cómo funciona este Joystick
@@ -253,7 +253,7 @@ _Descripción:_ Creación de Joystick simple.
 
 ![Scene 10](/CME/Assets/Scenes/miniaturas/Scene%2010.png "Scene 10")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2010yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![Simple Virtual Joystick Setup for Unity Mobile with Axis Values](/CME/Assets/Scenes/miniaturas/Scene%2010yt.jpg)](https://youtu.be/QkFOiUnCOSc)
 
 _Detalles:_
 - Devuelve los valores de -1 a 1 en cada eje.
@@ -272,7 +272,7 @@ _Descripción:_ Mover un objeto al lugar donde está tocando la pantalla en 2D.
 
 ![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2011yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2011yt.jpg)]()
 
 _Detalles:_
 - Ver rayos del origen a cada toque de la pantalla.
@@ -291,7 +291,7 @@ _Destacable:_ Estilo propio de los juegos hyper casual.
 
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2012yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2012yt.jpg)]()
 
 _Detalles:_
 - Joystick flotante de la assetstore.
@@ -312,7 +312,7 @@ _Descripción:_ Navegación sobre mapa con NavMesh.
 
 ![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2013yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2013yt.jpg)]()
 
 _Detalles:_
 - Movimiento al apuntar con el ratón.
@@ -332,7 +332,7 @@ _Descripción:_ Movimiento básico en primera persona, para móvil, adaptación 
 
 ![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2014yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2014yt.jpg)]()
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
@@ -353,7 +353,7 @@ _Descripción:_ Movimiento básico en 2D (RigidBody).
 
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2015yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2015yt.jpg)]()
 
 _Detalles:_
 - Implementación de movimiento lateral y salto en 2D.
@@ -367,6 +367,7 @@ _Detalles:_
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - [ULTIMATE 2D Platformer Controller for Unity](https://www.youtube.com/watch?v=zHSWG05byEc)
+- [Player Movement - New Input System - Unity Tutorial](https://www.youtube.com/watch?v=zHSWG05byEc)
 
 </details>
 
@@ -374,12 +375,16 @@ _Descripción:_ Movimiento básico en 2D.
 
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2016yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2016yt.jpg)]()
 
 _Detalles:_
-- Sistema de movimiento 2D utilizando CharacterController.
-- Incorporación de saltos y desplazamientos.
-- Integración de un sistema de animaciones.
+- Uso de New Input System (teclado, mando).
+- Movimiento Walk, Run y Jump.
+- Salto calculado en script.
+- Altura de salto connstante.
+- Uso de ScriptableObject.
+- Visualización de salto en editor.
+- Implementadas mejoras de salto (cima sostenida, salto feura de plataforma, doble salto).
 
 
 
@@ -394,7 +399,7 @@ _Descripción:_ Movimiento básico de un auto en 3D.
 
 ![Scene 17](/CME/Assets/Scenes/miniaturas/Scene%2017.png "Scene 17")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2017yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2017yt.jpg)]()
 
 _Detalles:_
 - Implementación de controles para un auto en 3D.
@@ -414,7 +419,7 @@ _Descripción:_ Movimiento básico de un auto en 2D.
 
 ![Scene 18](/CME/Assets/Scenes/miniaturas/Scene%2018.png "Scene 18")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2018yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2018yt.jpg)]()
 
 _Detalles:_
 - Implementación de controles para un auto en 2D.
@@ -434,7 +439,7 @@ _Descripción:_ New Input System.
 
 ![Scene 19](/CME/Assets/Scenes/miniaturas/Scene%2019.png "Scene 19")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2019yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2019yt.jpg)]()
 
 _Detalles:_
 - Implementación del nuevo sistema de entrada de Unity.
@@ -454,7 +459,7 @@ _Descripción:_ Implementación de movimientos complementarios en 3D.
 
 ![Scene 20](/CME/Assets/Scenes/miniaturas/Scene%2020.png "Scene 20")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2020yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2020yt.jpg)]()
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
@@ -482,7 +487,7 @@ _Descripción:_ Implementación de movimientos complementarios en 2D.
 
 ![Scene 21](/CME/Assets/Scenes/miniaturas/Scene%2021.png "Scene 21")
 
-[![First-Person Movement System in Unity](/CME/Assets/Scenes/miniaturas/Scene%2021yt.jpg)](https://youtu.be/gsb55bVfXGU)
+[![](/CME/Assets/Scenes/miniaturas/Scene%2021yt.jpg)]()
 
 _Detalles:_
 - Movimiento básico (WASD/joystick).
