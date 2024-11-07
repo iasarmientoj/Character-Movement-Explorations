@@ -398,5 +398,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37431a33d83f9f743b76206c84d7e3db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moverPlayer: 0
+  moverPlayer: 1
   verTouches: 1
