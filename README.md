@@ -272,7 +272,7 @@ _Descripción:_ Mover un objeto al lugar donde está tocando la pantalla en 2D.
 
 ![Scene 11](/CME/Assets/Scenes/miniaturas/Scene%2011.png "Scene 11")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2011yt.jpg)]()
+[![Touch-Based Object Movement in Unity 2D Explained](/CME/Assets/Scenes/miniaturas/Scene%2011yt.jpg)](https://youtu.be/V-DCqgjZ6vU)
 
 _Detalles:_
 - Ver rayos del origen a cada toque de la pantalla.
@@ -291,7 +291,7 @@ _Destacable:_ Estilo propio de los juegos hyper casual.
 
 ![Scene 12](/CME/Assets/Scenes/miniaturas/Scene%2012.png "Scene 12")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2012yt.jpg)]()
+[![Floating Joystick Character Movement for Hyper Casual Games](/CME/Assets/Scenes/miniaturas/Scene%2012yt.jpg)](https://youtu.be/2e6jzJbxllo)
 
 _Detalles:_
 - Joystick flotante de la assetstore.
@@ -312,7 +312,7 @@ _Descripción:_ Navegación sobre mapa con NavMesh.
 
 ![Scene 13](/CME/Assets/Scenes/miniaturas/Scene%2013.png "Scene 13")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2013yt.jpg)]()
+[![Simple Navigation with NavMesh and Target Controls](/CME/Assets/Scenes/miniaturas/Scene%2013yt.jpg)](https://youtu.be/zaYJax7nTH4)
 
 _Detalles:_
 - Movimiento al apuntar con el ratón.
@@ -332,7 +332,7 @@ _Descripción:_ Movimiento básico en primera persona, para móvil, adaptación 
 
 ![Scene 14](/CME/Assets/Scenes/miniaturas/Scene%2014.png "Scene 14")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2014yt.jpg)]()
+[![First-Person Mobile Movement with Joystick and Touch Controls](/CME/Assets/Scenes/miniaturas/Scene%2014yt.jpg)](https://youtu.be/E21HWGaz96U)
 
 _Detalles:_
 - Adaptación del sistema de movimiento para dispositivos móviles.
@@ -353,7 +353,7 @@ _Descripción:_ Movimiento básico en 2D (RigidBody).
 
 ![Scene 15](/CME/Assets/Scenes/miniaturas/Scene%2015.png "Scene 15")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2015yt.jpg)]()
+[![Basic 2D Movement with Rigidbody Physics in Unity](/CME/Assets/Scenes/miniaturas/Scene%2015yt.jpg)](https://youtu.be/F8GPEWKNILE)
 
 _Detalles:_
 - Implementación de movimiento lateral y salto en 2D.
@@ -375,7 +375,7 @@ _Descripción:_ Movimiento básico en 2D.
 
 ![Scene 16](/CME/Assets/Scenes/miniaturas/Scene%2016.png "Scene 16")
 
-[![](/CME/Assets/Scenes/miniaturas/Scene%2016yt.jpg)]()
+[![Advanced 2D Platformer Movement with Unity’s New Input System](/CME/Assets/Scenes/miniaturas/Scene%2016yt.jpg)](https://youtu.be/7EoPCOXwI38)
 
 _Detalles:_
 - Uso de New Input System (teclado, mando).
