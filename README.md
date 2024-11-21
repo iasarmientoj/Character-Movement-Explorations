@@ -513,7 +513,7 @@ _Descripción:_ Guía para la creación y animación de personajes humanoides 3D
 1. Crear el prompt en inglés en el [Traductor de google](https://translate.google.com/?hl=es&sl=es&tl=en), ej: detective, brazos extendidos, t pose, estilo 3d, caricatura	
 2. Generar la imagen del personaje con [Bing AI](https://www.bing.com/images/create/)
 3. Generar el modelo 3D en [Instant Mesh](https://huggingface.co/spaces/TencentARC/InstantMesh) o en [Stable Fast 3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d) o en [Hyperhuman](https://hyperhuman.deemos.com/)
-4. Convertir el modelo 3D de glb a fbx en Blender o en este [Convertidor GLB a FBX](https://imagetostl.com/convert/file/glb/to/fbx#convert)
+4. Convertir el modelo 3D de glb a fbx en Blender o en este [Convertidor GLB a FBX](https://www.3dpea.com/en/convert/GLB-to-FBX)
 5. Animar el personaje en [Mixamo](https://www.mixamo.com/#/)
 
 ### Rescatar textura en Blender
